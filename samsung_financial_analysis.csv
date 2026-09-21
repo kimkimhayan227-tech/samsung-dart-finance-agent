@@ -1,0 +1,25 @@
+구분,분석항목,영문명,단위,분석목적
+손익,매출액,Revenue,억원,기업의 매출 규모 및 성장성 분석
+손익,영업이익,Operating Income,억원,본업의 수익성 분석
+손익,당기순이익,Net Income,억원,최종 이익 규모 분석
+손익,매출총이익,Gross Profit,억원,매출의 기본 수익성 분석
+손익,영업이익률,Operating Margin,%,영업수익성 분석
+손익,순이익률,Net Profit Margin,%,최종 수익성 분석
+성장성,매출성장률,Revenue Growth,%,전년 대비 매출 성장 분석
+성장성,영업이익성장률,Operating Income Growth,%,전년 대비 영업이익 성장 분석
+성장성,순이익성장률,Net Income Growth,%,전년 대비 순이익 성장 분석
+재무상태,자산총계,Total Assets,억원,기업 전체 자산 규모 분석
+재무상태,부채총계,Total Liabilities,억원,기업의 부채 규모 분석
+재무상태,자본총계,Total Equity,억원,기업의 자기자본 규모 분석
+재무상태,유동자산,Current Assets,억원,단기 자산 및 유동성 분석
+재무상태,유동부채,Current Liabilities,억원,단기 상환부담 분석
+재무상태,현금및현금성자산,Cash and Cash Equivalents,억원,현금 유동성 분석
+재무비율,ROE,Return on Equity,%,자기자본 수익성 분석
+재무비율,ROA,Return on Assets,%,총자산 수익성 분석
+재무비율,부채비율,Debt to Equity Ratio,%,재무안정성 분석
+재무비율,유동비율,Current Ratio,%,단기 지급능력 분석
+재무비율,자기자본비율,Equity Ratio,%,재무구조 분석
+현금흐름,영업활동현금흐름,Operating Cash Flow,억원,본업의 현금창출능력 분석
+현금흐름,투자활동현금흐름,Investing Cash Flow,억원,투자활동 현금흐름 분석
+현금흐름,재무활동현금흐름,Financing Cash Flow,억원,자금조달 및 상환 분석
+현금흐름,잉여현금흐름,Free Cash Flow,억원,투자 후 실제 현금창출능력 분석
