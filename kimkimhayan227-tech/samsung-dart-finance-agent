@@ -1,0 +1,6 @@
+chatGPT에 다음의 프롬프르를 복붙하고 파일을 업로드해주세요.
+AAA에는 분석대상 기업 이름, ...에는 github에 생성한 repo 대체해주세요.
+
+DART에서 기업의 사업보고서 재무수치를 git hub에 크롤링하여 분석하는 agent 개발하고 싶습니다. 새로 추가되는 내용은 자동으로 엡데이트 되도록 설정하고, 분석한 주요 수치를 보여주는 dash board는 git hub에 만들어주세요.
+(1) dart의 삼성전자 기업보고서를 github로 저장하고, 주요 재무데이터 수치를 추출하고 재무비율 분석을 하고 싶습니다. 분석에 사용될 주요 재무 수치는 첨부파일의 내용을 참고해주세요. 
+(2) git hub repository https://github.com/kimkimhayan227-tech/samsung-dart-finance-agent로 설정했습니다. agent 개발을 위한 zip 파일 출력해 주시고, API 코드 입력에 대해 안내해주세요. dart api ([https:/...
